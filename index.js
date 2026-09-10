@@ -1,1 +1,0 @@
-console.log("Ossy David Promise");
